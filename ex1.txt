@@ -1,9 +1,10 @@
-roscpp
-rospy
 std_msgs
+cpp_common
+rostime
+roscpp_traits
+roscpp_serialization
+catkin
+genmsg
 genpy
-roscpp
-rosgraph
-rosgraph_msgs
-roslib
+message_runtime
 std_msgs
