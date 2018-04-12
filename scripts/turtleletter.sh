@@ -1,0 +1,11 @@
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[0.0, 0.0, 0.0]' '[0.0, 0.0, 1.57]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[4.0, 0.0, 0.0]' '[0.0, 0.0, 0.0]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[0.0, 0.0, 0.0]' '[0.0, 0.0, 1.57]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[3.0, 0.0, 0.0]' '[0.0, 0.0, 0.0]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[-6.0, 0.0, 0.0]' '[0.0, 0.0, 0.0]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[3.0, 0.0, 0.0]' '[0.0, 0.0, 0.0]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[0.0, 0.0, 0.0]' '[0.0, 0.0, -4.69]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[6.0, 0.0, 0.0]' '[0.0, 0.0, 0.0]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[6.0, 0.0, 0.0]' '[0.0, 0.0, -3.0]'
+rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[0.0, 0.0, 0.0]' '[0.0, 0.0, -20.0]'
+# 1.5707963267949
